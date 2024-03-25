@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "openai": "^4.29.2",
+    "path": "^0.12.7",
+    "typescript": "^5.4.3",
+    "whisper-node": "^1.1.1",
+    "whisper-node-ts": "^0.0.16"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/node": "^20.11.30"
+  }
+}
